@@ -15,7 +15,6 @@ const ImageScreen = ({ navigation, route }) => {
           <Image style={styles.image} source={{ uri: route.params.urls.regular }}></Image>
         </View>
 
-
         <BaseText style={{ color: Colors.primary, ...Fonts.boldText, ...Fonts.largeText }}>
           by:
           <BaseText style={{ color: Colors.linkColor, ...Fonts.boldText, ...Fonts.largeText }}> {route.params.user.username}</BaseText>
