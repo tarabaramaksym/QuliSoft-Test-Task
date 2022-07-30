@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Edmondsans-Bold.ttf",
+      "sha1": "9806739ec25079f685cc3c6def0d8775fb2f00cb"
+    },
+    {
+      "path": "src/assets/fonts/Edmondsans-Medium.ttf",
+      "sha1": "7bc9ed84ae61fae0e9d63b9a1bbd881f56936c26"
+    },
+    {
+      "path": "src/assets/fonts/Edmondsans-Regular.ttf",
+      "sha1": "a1a7c5d540d541a7c19c423a92f45d205e5fc5a5"
+    },
+    {
+      "path": "src/assets/fonts/Raleway-Bold.ttf",
+      "sha1": "fd799b6fb4aff1a9402e071ab02d1ddea731b868"
+    }
+  ]
+}
